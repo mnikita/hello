@@ -1,4 +1,4 @@
-module example.com/user/hello
+module github.com/mnikita/hello
 
 go 1.14
 

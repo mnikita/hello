@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"example.com/user/hello/morestrings"
 	"github.com/google/go-cmp/cmp"
+	"github.com/mnikita/hello/morestrings"
 )
 
 func main() {
